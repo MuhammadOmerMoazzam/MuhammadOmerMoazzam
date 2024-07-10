@@ -4,11 +4,6 @@
 ## Muhammad Omer Moazzam
 I am an undergraduate software engineering student with a strong foundation in programming languages and technologies, including Python and Java. My journey in Android development has ignited my passion for app development. As a GIAIC scholar, I am committed to advancing my skills in artificial intelligence and computing. Currently, I am expanding my expertise by learning TypeScript for web development.
 
-<!-- ## Skills:
-- Python 
-- Java 
-- TS -->
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -17,10 +12,10 @@ I am an undergraduate software engineering student with a strong foundation in p
 - **Languages**:
   
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
     
-<!-- - **Front-End Development**:
+<!-- <br> - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,11 +25,12 @@ I am an undergraduate software engineering student with a strong foundation in p
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
     
 <br>
 
 - **Softwares and Tools**:
+  
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
