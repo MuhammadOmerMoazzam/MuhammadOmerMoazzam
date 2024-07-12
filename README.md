@@ -1,4 +1,4 @@
-![Emerging Software Engineer | Android & Web Development Enthusiast | GIAIC Scholar](https://media.licdn.com/dms/image/D4E16AQFEFHnjAgX2ZQ/profile-displaybackgroundimage-shrink_350_1400/0/1720805331074?e=1726099200&v=beta&t=BQohwJLAOte-yTLrSZ6CrqD4quKU6Hce61A-US1W2dg)
+![Emerging Software Engineer | Android & Web Development Enthusiast | GIAIC Scholar](https://media.licdn.com/dms/image/D4E16AQHHXFd4n5JIuw/profile-displaybackgroundimage-shrink_350_1400/0/1720805470413?e=1726099200&v=beta&t=4iYucIhcK_6Rjbt00Y9VQ0wLT6KnxGySMfBbGRQ7xJE)
 
 <h1 align="center">Muhammad Omer Moazzam </h1>
 <p align="center">
