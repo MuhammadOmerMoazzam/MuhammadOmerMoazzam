@@ -1,3 +1,13 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 #### Emerging Software Engineer | Android & Web Development Enthusiast | GIAIC Scholar
 ![Emerging Software Engineer | Android & Web Development Enthusiast | GIAIC Scholar](https://media.licdn.com/dms/image/D4D16AQHqb_viQbVV7g/profile-displaybackgroundimage-shrink_350_1400/0/1711233841191?e=1726099200&v=beta&t=NkBIn-PpWW33OKWrcVRC4-SMpftWVSI8Pf5n3c6mb-c)
 
@@ -42,4 +52,5 @@ I am an undergraduate software engineering student with a strong foundation in p
 
 </p>
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
