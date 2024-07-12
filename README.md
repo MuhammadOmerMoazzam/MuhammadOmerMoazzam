@@ -1,19 +1,20 @@
 ![Emerging Software Engineer | Android & Web Development Enthusiast | GIAIC Scholar](https://media.licdn.com/dms/image/D4E16AQHHXFd4n5JIuw/profile-displaybackgroundimage-shrink_350_1400/0/1720805470413?e=1726099200&v=beta&t=4iYucIhcK_6Rjbt00Y9VQ0wLT6KnxGySMfBbGRQ7xJE)
 
-<h1 align="center">Muhammad Omer Moazzam </h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Emerging+Software+Engineer;Android+and+Web+Development+Enthusiast;GIAIC+Scholar;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+<!-- <p align="center"> -->
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Emerging+Software+Engineer;Android+and+Web+Development+Enthusiast;GIAIC+Scholar;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p> -->
 <!-- ;DS%20|%20AI%20|%20ML%20Enthusiast -->
-<hr/>
-<h4>I am an undergraduate software engineering student with a strong foundation in programming languages and technologies, including Python and Java. My journey in Android development has ignited my passion for app development. As a GIAIC scholar, I am committed to advancing my skills in artificial intelligence and computing. Currently, I am expanding my expertise by learning TypeScript for web development.</h4>
+
+# Muhammad Omer Moazzam
+
+I am an undergraduate software engineering student with a strong foundation in programming languages and technologies, including Python and Java. My journey in Android development has ignited my passion for app development. As a GIAIC scholar, I am committed to advancing my skills in artificial intelligence and computing. Currently, I am expanding my expertise by learning TypeScript for web development.
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
   
-### Programming languages
+#### Programming languages
 <p align="left"> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -29,7 +30,7 @@
   </a>
 </p>
 
-### Frontend Development
+#### Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -45,13 +46,13 @@
   </a> -->
 </p>
 
-### Databases & Cloud Hosting
+#### Databases & Cloud Hosting
 <p align="left"> 
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
   
-### Graphic Designing
+#### Graphic Designing
 <p align="left">
     &emsp;
   <a href="#">
@@ -59,7 +60,7 @@
   </a>
  </p>
 
- ### Software & Tools
+ #### Software & Tools
 <p>
 <!--   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a> -->
@@ -76,4 +77,4 @@
 </p>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
