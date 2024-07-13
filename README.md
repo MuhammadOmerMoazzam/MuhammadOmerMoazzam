@@ -1,4 +1,4 @@
-![Emerging Software Engineer | Android & Web Development Enthusiast | GIAIC Scholar](https://media.licdn.com/dms/image/D4E16AQHHXFd4n5JIuw/profile-displaybackgroundimage-shrink_350_1400/0/1720805470413?e=1726099200&v=beta&t=4iYucIhcK_6Rjbt00Y9VQ0wLT6KnxGySMfBbGRQ7xJE)
+<img src="GitHub_Banner.png" alt="Emerging Software Engineer | Android & Web Development Enthusiast | GIAIC Scholar">
 
 <!-- <p align="center"> -->
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Emerging+Software+Engineer;Android+and+Web+Development+Enthusiast;GIAIC+Scholar;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
