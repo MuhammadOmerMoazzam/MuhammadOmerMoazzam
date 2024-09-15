@@ -18,7 +18,7 @@ I am an undergraduate software engineering student with a strong foundation in p
 [![Programming languages](https://skillicons.dev/icons?i=py,ts,js,java)](https://skillicons.dev)
 
 ### Frontend Development
-[![Frontend Development](https://skillicons.dev/icons?i=html,cs)](https://skillicons.dev)
+[![Frontend Development](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ### Databases & Cloud Hosting
 [![Databases & Cloud Hosting](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
