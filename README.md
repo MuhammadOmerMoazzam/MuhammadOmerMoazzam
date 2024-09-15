@@ -15,10 +15,10 @@ I am an undergraduate software engineering student with a strong foundation in p
 ## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
   
 ### Programming languages
-[![Programming languages](https://skillicons.dev/icons?i=py,js,ts,java)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=py,ts,js,java)](https://skillicons.dev)
 
 ### Frontend Development
-[![Frontend Development](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![Frontend Development](https://skillicons.dev/icons?i=html,cs)](https://skillicons.dev)
 
 ### Databases & Cloud Hosting
 [![Databases & Cloud Hosting](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
