@@ -5,9 +5,7 @@
 <!-- <p align="center"> -->
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Emerging+Software+Engineer;Android+and+Web+Development+Enthusiast;GIAIC+Scholar;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p> -->
-
-# Muhammad Omer Moazzam
-
+<!-- 
 I am an undergraduate software engineering student with a strong foundation in programming languages and technologies, including Python and Java. My journey in Android development has ignited my passion for app development. As a GIAIC scholar, I am committed to advancing my skills in artificial intelligence and computing. Currently, I am expanding my expertise by learning TypeScript for web development.
 
 <br/>
@@ -17,7 +15,7 @@ I am an undergraduate software engineering student with a strong foundation in p
 ### Programming languages
 [![Programming languages](https://skillicons.dev/icons?i=py,ts,js,java)](https://skillicons.dev)
 
-### Frontend Development
+### Frontend Development  
 [![Frontend Development](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ### Databases & Cloud Hosting
@@ -32,7 +30,7 @@ I am an undergraduate software engineering student with a strong foundation in p
 [![Software & Tools](https://skillicons.dev/icons?i=vscode,androidstudio)](https://skillicons.dev)
 
 <br/>
-
+-->
 ## 📊 GitHub Stats:
 
 <br/>
@@ -40,7 +38,6 @@ I am an undergraduate software engineering student with a strong foundation in p
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=MuhammadOmerMoazzam&theme=dark&hide_border=true&show_icons=true&count_private=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadOmerMoazzam&theme=dark&hide_border=true" alt="GitHub Streak Stats">
   </div>
 </div>
 
