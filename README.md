@@ -30,18 +30,6 @@ I am an undergraduate software engineering student with a strong foundation in p
 [![Software & Tools](https://skillicons.dev/icons?i=vscode,androidstudio)](https://skillicons.dev)
 
 <br/>
--->
-## 📊 GitHub Stats:
-
-<br/>
-
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadOmerMoazzam&theme=dark&hide_border=true&show_icons=true&count_private=true">
-  </div>
-</div>
-
-<br/>
 
 
 
